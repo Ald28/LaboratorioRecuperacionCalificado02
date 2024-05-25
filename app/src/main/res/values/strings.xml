@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LaboratorioRecuperacionCalificado02</string>
+    <string name="nombre_completo">Nombre Cliente</string>
+    <string name="correo">Numero Cliente</string>
+    <string name="apellido">Apellidos</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="direccion">Direccion</string>
+    <string name="guardar">Guardar</string>
+    <string name="Pedidos">Pedidos</string>
+</resources>
